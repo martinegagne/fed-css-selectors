@@ -1,1 +1,21 @@
- 
+html{
+  font-size: 28px
+}
+
+header{
+  border-bottom: 2px solid #5EBACB
+}
+
+h1{
+	font-family: Arial, Helvetica, Tahoma, sans-serif;
+	/*font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+  */
+}
+
+h2{
+  font-family: Arial, Helvetica, Tahoma, sans-serif;
+}
